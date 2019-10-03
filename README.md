@@ -18,7 +18,7 @@ to clone
 
 `git clone https://github.com/shellkore/woofOrMeow.git`
 
-Enter the repo
+Enter inside the repo
 
 `cd woofOrMeow`
 
