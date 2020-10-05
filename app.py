@@ -75,6 +75,9 @@ def upload():
         return result
     return None
 
+def testing_fun():
+    print("testing function for hacktoberfest only", "not related with the actual project")
+    print("use tf 2.0 for better experience ")
 
 if __name__ == '__main__':
     loaded_model.compile(optimizer = 'adam', loss = 'binary_crossentropy', metrics = ['accuracy'])
